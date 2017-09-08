@@ -2,3 +2,6 @@ Hello my name is eric ---Holy shit some big time changes were made.
 
 Waht do you like to do.  I like to eat pizza
 
+I have added the new branch
+
+This is the current version of the project
